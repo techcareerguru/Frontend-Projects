@@ -9,7 +9,7 @@ If you like this repo, be sure to ⭐ it.
 
 
 |  #  | Project
-| --- | ------------------------------------------------ | --------------------  | ------------- |
+| --- | ------------------------------------------------ |
 | 01  | [3d social media icon](https://github.com/techcareerguru/Frontend-Projects/tree/main/3d%20social%20media%20icons)|
 | 02  | [Profile Card](https://github.com/techcareerguru/Frontend-Projects/tree/main/Animated%20profile%20card) |
 | 03  | [Sticky Navbar](https://github.com/techcareerguru/Frontend-Projects/tree/main/Responsive%20sticky%20navbar)
